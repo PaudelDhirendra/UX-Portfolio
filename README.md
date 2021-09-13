@@ -6,4 +6,4 @@
 <p align="center">
   <img  src="assets/img/PW.png">
 
-# **Live [DEMO](https://paudeldhirendra.github.io/**.
+# **Live [DEMO](https://paudeldhirendra.github.io/)**.
