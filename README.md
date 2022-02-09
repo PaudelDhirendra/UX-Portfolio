@@ -20,4 +20,4 @@ Link to my Front End Website and some of my finished projects
 </li>
 </ul>
 <h1>Live URL: </h1>
-https://paudeldhirendra.github.io/Portfolio/
+https://paudeldhirendra.github.io/
