@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Merriweather:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
 // color variables
 $core-light: #ffffff;
 $core-disabled: lightgrey;
-$brand-color: #f4623a;
-$tertiary: #ffc800;
+$brand-color: #2c4465;
+$tertiary: #213550;
 $success: #006500;
 $fail: #ad0021;
 
@@ -49,7 +49,7 @@ body {
 }
 
 body {
-  font-family: "Merriweather";
+  font-family: Poppins;
   padding: 0;
   margin: 0;
 }
@@ -75,7 +75,7 @@ h2 {
 }
 
 p {
-  font-family: "Merriweather";
+  font-family: "Poppins";
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 1px;
@@ -239,7 +239,7 @@ header #click:checked ~ ul li a {
 .hero-container {
   padding: 1em;
   .hero-title {
-    font-family: "Merriweather";
+    font-family: "Poppins";
     font-weight: 300;
     font-size: 1.3rem;
     color: black;
@@ -688,7 +688,7 @@ header #click:checked ~ ul li a {
           text-transform: uppercase;
           letter-spacing: 2px;
           color: $core-light;
-          font-family: "Merriweather";
+          font-family: "Poppins";
           font-size: 16px;
           background-color: $brand-color;
           cursor: pointer;
@@ -724,7 +724,7 @@ header #click:checked ~ ul li a {
   font-size: 16px;
   height: 500px;
   font-weight: 300;
-  font-family: "Merriweather";
+  font-family: "Poppins";
 }
 
 .contact-page-section .contact-container .contact-form .contact-form-container .input-area label .first-child,
@@ -748,7 +748,7 @@ header #click:checked ~ ul li a {
       padding: 5px;
       height: 14vh;
       overflow: hidden;
-      font-family: "Merriweather";
+      font-family: "Poppins";
       font-size: 18px;
       color: #3d3d3d;
       cursor: pointer;

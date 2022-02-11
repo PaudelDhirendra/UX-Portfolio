@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Merriweather:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 .bg-gradient-chill {
   background: linear-gradient(135deg, #94aaab 0%, #0291e3 100%);
 }
@@ -23,7 +23,7 @@ body {
 }
 
 body {
-  font-family: "Merriweather";
+  font-family: Poppins;
   padding: 0;
   margin: 0;
 }
@@ -49,7 +49,7 @@ h2 {
 }
 
 p {
-  font-family: "Merriweather";
+  font-family: "Poppins";
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 1px;
@@ -283,7 +283,7 @@ header #click:checked ~ ul li a {
 }
 
 .hero-container .hero-title {
-  font-family: "Merriweather";
+  font-family: "Poppins";
   font-weight: 300;
   font-size: 1.3rem;
   color: black;
@@ -929,7 +929,7 @@ header #click:checked ~ ul li a {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #ffffff;
-  font-family: "Merriweather";
+  font-family: "Poppins";
   font-size: 16px;
   background-color: #2c4465;
   cursor: pointer;
@@ -967,7 +967,7 @@ label
   font-size: 16px;
   height: 500px;
   font-weight: 300;
-  font-family: "Merriweather";
+  font-family: "Poppins";
 }
 
 .contact-page-section
@@ -981,7 +981,7 @@ label
   font-size: 16px;
   height: 500px;
   font-weight: 300;
-  font-family: "Merriweather";
+  font-family: "Poppins";
 }
 
 .contact-page-section
@@ -995,7 +995,7 @@ label
   font-size: 16px;
   height: 500px;
   font-weight: 300;
-  font-family: "Merriweather";
+  font-family: "Poppins";
 }
 
 .contact-page-section
@@ -1009,7 +1009,7 @@ label
   font-size: 16px;
   height: 500px;
   font-weight: 300;
-  font-family: "Merriweather";
+  font-family: "Poppins";
 }
 
 .contact-page-section .contact-container .contact-form .contact-form-container .input-area label .first-child,
@@ -1031,7 +1031,7 @@ label
   padding: 5px;
   height: 14vh;
   overflow: hidden;
-  font-family: "Merriweather";
+  font-family: "Poppins";
   font-size: 18px;
   color: #3d3d3d;
   cursor: pointer;
