@@ -172,7 +172,7 @@ header nav #click {
 }
 
 .nav-container header .logo .logo-placeholder .company-logo img {
-  width: 100%;
+  width: auto;
   height: auto;
 }
 
