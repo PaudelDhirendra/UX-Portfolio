@@ -53,12 +53,12 @@ for (var i = 0; i < elements.length; i++) {
 const style = document.createElement('style');
 style.innerHTML = `
   .txt-rotate > .wrap {
-        border-right: 0.1em solid #2c4465;
+        border-right: 0.1em solid #2c653d;
         font-family: 'Poppins';
         font-size: 1.5em;
         font-weight: 600;
         transform: none;
-        color: #2c4465;
+        color: #2c653d;
         margin: 0;
       }
     `;
