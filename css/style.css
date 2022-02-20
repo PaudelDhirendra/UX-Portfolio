@@ -37,7 +37,7 @@ h1 { font-family: Merriweather;
 
 h2 {
   line-height: 27pt;
-  color: #2c4465;
+  color: #2c653d;
   font-size: 1.7rem;
   font-weight: 500;
   font-variant-caps: all-petite-caps;
@@ -138,7 +138,7 @@ header nav #click {
 }
 
 .nav-container {
-  background: #2c4465;
+  background: #2c653d;
   height: 57px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -310,7 +310,7 @@ header #click:checked ~ ul li a {
 }
 
 .hero-container .hero-button-container .primary-button {
-  background-color: #2c4465;
+  background-color: #2c653d;
   width: 100%;
   height: 40px;
   color: #ffffff;
@@ -318,7 +318,7 @@ header #click:checked ~ ul li a {
   font-variant-caps: all-petite-caps;
   letter-spacing: 1pt;
   border-radius: 5px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -333,21 +333,21 @@ header #click:checked ~ ul li a {
 }
 
 .hero-container .hero-button-container .primary-button:hover {
-  background: #2c4465;
+  background: #2c653d;
   color: #ffffff;
-  border-color: #2c4465;
+  border-color: #2c653d;
 }
 
 .hero-container .hero-button-container .secondary-button {
   background-color: #ffffff;
   width: 100%;
   height: 40px;
-  color: #2c4465;
+  color: #2c653d;
   font-size: 20px;
   font-variant-caps: all-petite-caps;
   letter-spacing: 1pt;
   border-radius: 5px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -368,9 +368,9 @@ header #click:checked ~ ul li a {
 }
 
 .hero-container .hero-button-container .secondary-button:hover {
-  background-color: #2c4465;
+  background-color: #2c653d;
   color: #ffffff;
-  border-color: #2c4465;
+  border-color: #2c653d;
 }
 
 .hero-container .col {
@@ -422,7 +422,7 @@ header #click:checked ~ ul li a {
 }
 
 .mobile-social-icon a {
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 50%;
   padding: 10px;
   padding-bottom: 0;
@@ -436,7 +436,7 @@ header #click:checked ~ ul li a {
 }
 
 .tools {
-  background-color: #2c4465;
+  background-color: #2c653d;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -512,7 +512,7 @@ header #click:checked ~ ul li a {
 
 .featured .left .inner .featured-title h2 {
   line-height: 27pt;
-  color: #2c4465;
+  color: #2c653d;
   font-size: 1.7rem;
   font-weight: 500;
   font-variant-caps: all-petite-caps;
@@ -544,13 +544,13 @@ header #click:checked ~ ul li a {
 }
 
 .featured .right button {
-  background-color: #2c4465;
+  background-color: #2c653d;
   width: 100%;
   padding: 8px;
   color: #ffffff;
   font-size: 17px;
   border-radius: 5px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   margin: 1em;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -570,7 +570,7 @@ header #click:checked ~ ul li a {
 .featured .right button:hover {
   background: #618bc5;
   color: #ffffff;
-  border-color: #2c4465;
+  border-color: #2c653d;
   -webkit-box-shadow: 0 8px 13px -4px #0d4252c4;
           box-shadow: 0 8px 13px -4px #0d4252c4;
 }
@@ -615,7 +615,7 @@ header #click:checked ~ ul li a {
 }
 
 .skills .skills-container ul li .skill-title {
-  color: #2c4465;
+  color: #2c653d;
   font-size: 1.7rem;
   font-weight: 500;
   font-variant-caps: all-petite-caps;
@@ -668,7 +668,7 @@ header #click:checked ~ ul li a {
 
 .portfolio .portfolio-left .inner .subtitle {
   line-height: 27pt;
-  color: #2c4465;
+  color: #2c653d;
   font-size: 1.7rem;
   font-weight: 500;
   font-variant-caps: all-petite-caps;
@@ -706,13 +706,13 @@ header #click:checked ~ ul li a {
 }
 
 .portfolio .right .case-study-button {
-  background-color: #2c4465;
+  background-color: #2c653d;
   width: 100%;
   padding: 8px;
   color: #ffffff;
   font-size: 17px;
   border-radius: 5px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   margin: 1em;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -732,7 +732,7 @@ header #click:checked ~ ul li a {
 .portfolio .right .case-study-button:hover {
   background: #618bc5;
   color: #ffffff;
-  border-color: #2c4465;
+  border-color: #2c653d;
   -webkit-box-shadow: 0 8px 13px -4px #0d4252c4;
           box-shadow: 0 8px 13px -4px #0d4252c4;
 }
@@ -928,13 +928,13 @@ header #click:checked ~ ul li a {
   color: #ffffff;
   font-family: "Poppins";
   font-size: 16px;
-  background-color: #2c4465;
+  background-color: #2c653d;
   cursor: pointer;
   width: 100%;
   height: 36px;
   margin-bottom: 2em;
   border-radius: 5px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   -webkit-box-shadow: 0 8px 13px -4px #252525;
@@ -943,8 +943,8 @@ header #click:checked ~ ul li a {
 
 .contact-page-section .contact-container .contact-form-container .input-area .submit-button:hover {
   background: #ffffff;
-  color: #2c4465;
-  border-color: #2c4465;
+  color: #2c653d;
+  border-color: #2c653d;
 }
 
 .contact-page-section .contact-container .contact-form-container .input-area span {
@@ -1069,7 +1069,7 @@ label
 }
 
 .show-modal .contact-modal-title {
-  color: #2c4465;
+  color: #2c653d;
   line-height: 26px;
   letter-spacing: 4pt;
   font-size: 1.5rem;
@@ -1145,7 +1145,7 @@ label
 
 .show-modal ul li a span {
   font-weight: 300;
-  color: #2c4465;
+  color: #2c653d;
   text-decoration: underline;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -1183,7 +1183,7 @@ label
 }
 
 .thank-you-section .thank-you-container .thank-you-message {
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 8px;
   background-color: #ffffff;
   padding: 10px;
@@ -1206,7 +1206,7 @@ label
 
 .thank-you-section .thank-you-container .thank-you-message h1 {
   line-height: 27pt;
-  color: #2c4465;
+  color: #2c653d;
   font-size: 1.7rem;
   font-weight: 500;
   font-variant-caps: all-petite-caps;
@@ -1231,12 +1231,12 @@ label
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #2c4465;
+  background-color: #2c653d;
   color: #ffffff;
   font-size: 17px;
   text-transform: uppercase;
   font-weight: 500;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
   margin: 1em;
   width: 100%;
@@ -1248,11 +1248,11 @@ label
 }
 
 .thank-you-section .thank-you-container .thank-you-message button .primary-button {
-  background-color: #2c4465;
+  background-color: #2c653d;
   color: #ffffff;
   font-size: 17px;
   border-radius: 5px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   margin-right: 10px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1268,9 +1268,9 @@ label
 }
 
 .thank-you-section .thank-you-container .thank-you-message button .primary-button:hover {
-  background: #2c4465;
+  background: #2c653d;
   color: #ffffff;
-  border-color: #2c4465;
+  border-color: #2c653d;
 }
 
 @-webkit-keyframes thank-you-animation {
@@ -1504,11 +1504,11 @@ label
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #2c4465;
+  background-color: #2c653d;
   color: #ffffff;
   width: 100%;
   height: 40px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -1519,8 +1519,8 @@ label
 
 .intro-container .right .primary-button:hover {
   background-color: #ffffff;
-  color: #2c4465;
-  border: 1px solid #2c4465;
+  color: #2c653d;
+  border: 1px solid #2c653d;
 }
 
 .summary {
@@ -1721,9 +1721,9 @@ label
   font-size: 20px;
   text-decoration: none;
   font-variant-caps: all-petite-caps;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
-  background-color: #2c4465;
+  background-color: #2c653d;
   color: white;
   margin: 0;
   display: -webkit-box;
@@ -1744,7 +1744,7 @@ label
 
 .prototyping-section .summary-container .discovery-cards .discovery-card-inner .card-image .secondary-button:hover {
   background-color: #ffffff;
-  color: #2c4465;
+  color: #2c653d;
 }
 
 .outcomes-gallery-container {
@@ -1844,9 +1844,9 @@ label
   font-size: 20px;
   text-decoration: none;
   font-variant-caps: all-petite-caps;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
-  background-color: #2c4465;
+  background-color: #2c653d;
   color: white;
   margin-top: 1em;
   display: -webkit-box;
@@ -1867,7 +1867,7 @@ label
 
 .outcomes-gallery-container .row .col .small-img-row .small-img .primary-button:hover {
   background: #ffffff;
-  color: #2c4465;
+  color: #2c653d;
 }
 
 .outcomes-gallery-container .row .col .small-img-row .small-img .play-btn {
@@ -1890,7 +1890,7 @@ label
 .outcomes-gallery-container .row .col .small-img-row .small-img .play-btn:before {
   content: "";
   position: absolute;
-  border: 2px solid #2c4465;
+  border: 2px solid #2c653d;
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -1904,7 +1904,7 @@ label
 .outcomes-gallery-container .row .col .small-img-row .small-img .play-btn:after {
   content: "";
   position: absolute;
-  border: 2px solid #2c4465;
+  border: 2px solid #2c653d;
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -1928,7 +1928,7 @@ label
 .outcomes-gallery-container .row .col .small-img-row .small-img video {
   width: 100%;
   height: auto;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
 }
 
@@ -1937,7 +1937,7 @@ label
   display: -ms-flexbox;
   display: flex;
   width: 280px;
-  border: 1px solid #2c4465;
+  border: 1px solid #2c653d;
   border-radius: 5px;
 }
 
@@ -2078,7 +2078,7 @@ label
 }
 
 .final-editorial p span a {
-  color: #2c4465;
+  color: #2c653d;
   font-weight: 600;
 }
 
@@ -2102,7 +2102,7 @@ footer .footer-container {
 }
 
 footer .footer-container .footer-details {
-  background: #2c4465;
+  background: #2c653d;
   color: #ffffff;
   text-align: left;
   display: -webkit-box;
@@ -2551,7 +2551,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     display: flex;
     width: 40%;
     height: auto;
-    border: 1px solid #2c4465;
+    border: 1px solid #2c653d;
     border-radius: 10px;
   }
   .intro-container .right-col img {
@@ -3024,7 +3024,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     display: flex;
     width: 500px;
     height: auto;
-    border: 1px solid #2c4465;
+    border: 1px solid #2c653d;
     border-radius: 5px;
     cursor: -webkit-zoom-in;
     cursor: zoom-in;
@@ -3073,7 +3073,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    border: 1px solid #2c4465;
+    border: 1px solid #2c653d;
     border-radius: 5px;
     width: 82.5%;
     height: auto;
@@ -3136,7 +3136,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     display: flex;
     width: 1000px;
     height: 700px;
-    border: 1px solid #2c4465;
+    border: 1px solid #2c653d;
     border-radius: 10px;
     overflow: hidden;
   }
@@ -3171,7 +3171,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
             justify-content: center;
   }
   .swot-analysis-section .carousel-container .carousel-slider .navigation-manual .manual-btn {
-    border: 1px solid #2c4465;
+    border: 1px solid #2c653d;
     padding: 5px;
     border-radius: 50%;
     cursor: pointer;
@@ -3179,7 +3179,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     transition: 1s;
   }
   .swot-analysis-section .carousel-container .carousel-slider .navigation-manual .manual-btn:hover {
-    background: #2c4465;
+    background: #2c653d;
   }
   .swot-analysis-section .carousel-container .carousel-slider .navigation-manual .manual-btn:not(:last-child) {
     margin-right: 40px;
@@ -3197,7 +3197,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
             justify-content: center;
   }
   .swot-analysis-section .carousel-container .carousel-slider .navigation-auto div {
-    border: 1px solid #2c4465;
+    border: 1px solid #2c653d;
     padding: 5px;
     border-radius: 5px;
     -webkit-transition: 1s;
@@ -3207,16 +3207,16 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     margin-right: 40px;
   }
   #radio1:checked ~ .navigation-auto .auto-btn1 {
-    background: #2c4465;
+    background: #2c653d;
   }
   #radio2:checked ~ .navigation-auto .auto-btn2 {
-    background: #2c4465;
+    background: #2c653d;
   }
   #radio3:checked ~ .navigation-auto .auto-btn3 {
-    background: #2c4465;
+    background: #2c653d;
   }
   #radio4:checked ~ .navigation-auto .auto-btn4 {
-    background: #2c4465;
+    background: #2c653d;
   }
   #radio1:checked ~ .first-image {
     margin-left: 0%;
@@ -3336,7 +3336,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
     padding: 3em 4em;
   }
   .featured .left .inner p .primary-button {
-    color: #2c4465;
+    color: #2c653d;
     font-weight: 500;
     text-decoration: underline;
     -webkit-transition: all 0.5s ease-in-out;
@@ -3791,7 +3791,7 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
         -ms-flex-align: center;
             align-items: center;
     height: 60px;
-    background: #2c4465;
+    background: #2c653d;
   }
   .nav-container header .logo {
     padding-left: 2.5em;
