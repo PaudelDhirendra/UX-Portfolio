@@ -584,7 +584,7 @@ header #click:checked ~ ul li a {
 }
 
 .skills {
-  background-image: url(/img/designing.jpg);
+  background-image: url(/assets/img/designing.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 1em;
@@ -747,7 +747,7 @@ header #click:checked ~ ul li a {
 
 .research-qoute {
   background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ffffffc9)), url(img/uxWallpaper.png);
-  background: linear-gradient(#ffffff, #ffffffc9), url(img/uxWallpaper.png);
+  background: linear-gradient(#ffffff, #ffffffc9), url(/assets/img/uxWallpaper.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: -webkit-box;
