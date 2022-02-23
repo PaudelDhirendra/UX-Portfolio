@@ -87,6 +87,44 @@ setInterval(function(){
   }
 }, 5000);
 
+// Video Button actions
+// Guitar Tutorial Page 
+const video = document.getElementById('designVideos');
+const videoLarge = document.getElementById('designVideosLarge');
+const playBtn = document.getElementById('playBtn');
+const playBtnLarge = document.getElementById('playBtnLarge');
+// Remind Me Project 
+const videoSmall = document.getElementById('designVideosMob');
+const videoBig = document.getElementById('designVideosBig');
+const playBtnSmall = document.getElementById('playBtnMob');
+const playBtnLargeBig = document.getElementById('playLargeBtn');
+// RemindMe 
+playBtnSmall.addEventListener('click', vidActionMob);
+playBtnLargeBig.addEventListener('click', playVideoBig);
+// Guitar 
+playBtn.addEventListener('click', vidAction);
+playBtnLarge.addEventListener('click', playBigVideo);
+
+function vidAction(event) {
+video.play();
+video.style = "z-index: 1;position: relative;";
+}
+
+function playBigVideo(event) {
+videoLarge.play();
+videoLarge.style = "z-index: 1;position: relative;";
+}
+
+function vidActionMob(event) {
+videoSmall.play();
+videoSmall.style = "z-index: 1;position: relative;";
+}
+
+function playVideoBig(event) {
+videoBig.play();
+videoBig.style = "z-index: 1;position: relative;";
+}
+
 // debugging section 
 // Debug Code to find elements causing horizontal scroll 
 var docWidth = document.documentElement.offsetWidth;
