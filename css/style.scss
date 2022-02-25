@@ -49,7 +49,7 @@ body {
 }
 
 body {
-  font-family: Poppins;
+  font-family: Merriweather;
   padding: 0;
   margin: 0;
 }
@@ -241,7 +241,7 @@ header #click:checked ~ ul li a {
 .hero-container {
   padding: 1em;
   .hero-title {
-    font-family: "Poppins";
+    font-family: "Merriweather";
     font-weight: 300;
     font-size: 1.3rem;
     color: black;
@@ -690,7 +690,7 @@ header #click:checked ~ ul li a {
           text-transform: uppercase;
           letter-spacing: 2px;
           color: $core-light;
-          font-family: "Poppins";
+          font-family: "Merriweather";
           font-size: 16px;
           background-color: $brand-color;
           cursor: pointer;
@@ -726,7 +726,7 @@ header #click:checked ~ ul li a {
   font-size: 16px;
   height: 500px;
   font-weight: 300;
-  font-family: "Poppins";
+  font-family: "Merriweather";
 }
 
 .contact-page-section .contact-container .contact-form .contact-form-container .input-area label .first-child,
@@ -750,7 +750,7 @@ header #click:checked ~ ul li a {
       padding: 5px;
       height: 14vh;
       overflow: hidden;
-      font-family: "Poppins";
+      font-family: "Merriweather";
       font-size: 18px;
       color: #3d3d3d;
       cursor: pointer;
