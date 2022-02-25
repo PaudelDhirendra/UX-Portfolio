@@ -23,7 +23,7 @@ body {
 }
 
 body {
-  font-family: Poppins;
+  font-family: Merriweather;
   padding: 0;
   margin: 0;
 }
@@ -280,15 +280,15 @@ header #click:checked ~ ul li a {
 }
 
 .hero-container .hero-title {
-  font-family: "Poppins";
+  font-family: "Merriweather";
   font-weight: 300;
   font-size: 1.3rem;
-  color: black;
+  color: #2c653d;
   line-height: 2rem;
 }
 
 .hero-container .hero-subtitle {
-  color: black;
+  color: #2c653d;
 }
 
 .hero-container .hero-button-container {
