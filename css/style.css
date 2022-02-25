@@ -187,7 +187,7 @@ header nav #click {
 .nav-container header .logo .logo-container .logo-name {
   color: #ffffff;
   line-height: 26px;
-  letter-spacing: 1pt;
+  letter-spacing: 0pt;
   font-size: 1.3rem;
   font-variant-caps: all-petite-caps;
 }
