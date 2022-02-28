@@ -215,7 +215,7 @@ header nav #click {
   text-align: center;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  background: #396baf;
+  background: #2c653d;
   text-transform: uppercase;
   z-index: 1100;
 }
@@ -247,7 +247,7 @@ header nav #click {
 
 .nav-container header nav ul li a:hover {
   background: 0 0;
-  color: #0ff;
+  color: #f4623a;
 }
 
 header #click:checked ~ ul {
@@ -432,7 +432,7 @@ header #click:checked ~ ul li a {
 }
 
 .mobile-social-icon a:hover {
-  background-image: radial-gradient(#fff 0%, #2c446585 100%);
+  background-image: radial-gradient(#fff 0%, #f4623a85 100%);
 }
 
 .tools {
