@@ -191,7 +191,7 @@ header nav #click {
   justify-content: center;
   text-align: center;
   transition: $button-hover-state;
-  background: #396baf;
+  background: #2c653d;
   text-transform: uppercase;
   z-index: 1100;
   li {
@@ -208,7 +208,7 @@ header nav #click {
       margin-left: -100%;
       &:hover {
         background: 0 0;
-        color: #0ff;
+        color: #f4623a;
       }
     }
   }
@@ -244,11 +244,11 @@ header #click:checked ~ ul li a {
     font-family: "Merriweather";
     font-weight: 300;
     font-size: 1.3rem;
-    color: black;
+    color: #2c653d;
     line-height: 2rem;
   }
   .hero-subtitle {
-    color: black;
+    color: #2c653d;
   }
   .hero-button-container {
     margin: 2em 0;
@@ -333,7 +333,7 @@ header #click:checked ~ ul li a {
     margin: 0.7rem;
     transition: $button-hover-state;
     &:hover {
-      background-image: radial-gradient(#fff 0%, #2c446585 100%);
+      background-image: radial-gradient(#fff 0%, #f4623a 100%);
     }
   }
 }
@@ -427,7 +427,7 @@ header #click:checked ~ ul li a {
       transition: $button-hover-state;
       box-shadow: 0 8px 13px -4px lightblue;
       &:hover {
-        background: #618bc5;
+        background: #f4623a;
         color: $core-light;
         border-color: $core-button-border;
         box-shadow: 0 8px 13px -4px #0d4252c4;
@@ -545,7 +545,7 @@ header #click:checked ~ ul li a {
       transition: $button-hover-state;
       box-shadow: 0 8px 13px -4px lightblue;
       &:hover {
-        background: #618bc5;
+        background: #f4623a;
         color: $core-light;
         border-color: $core-button-border;
         box-shadow: 0 8px 13px -4px #0d4252c4;
