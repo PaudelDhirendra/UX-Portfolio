@@ -731,7 +731,7 @@ header #click:checked ~ ul li a {
 }
 
 .portfolio .right .case-study-button:hover {
-  background: #618bc5;
+  background: #f4623a;
   color: #ffffff;
   border-color: #2c653d;
   -webkit-box-shadow: 0 8px 13px -4px #0d4252c4;
