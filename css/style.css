@@ -29,7 +29,7 @@ body {
   margin: 0;
 }
 
-h1 { font-family: Merriweather; 
+h1 { font-family: Merriweather Sans; 
   font-size: 24px; 
   font-style: normal; 
   font-variant: normal; 
@@ -281,7 +281,7 @@ header #click:checked ~ ul li a {
 }
 
 .hero-container .hero-title {
-  font-family: "Merriweather";
+  font-family: "Merriweather Sans";
   font-weight: 300;
   font-size: 1.3rem;
   color: #2c653d;
