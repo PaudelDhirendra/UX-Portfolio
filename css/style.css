@@ -3247,10 +3247,10 @@ footer .footer-container .footer-details .logo-container .mailto-link:hover {
   }
   .nav-container header .logo .logo-container .logo-name {
     font-size: 1.5rem;
-    letter-spacing: 11pt;
+    letter-spacing: 0pt;
   }
   .nav-container header .logo .logo-container .logo-title {
-    letter-spacing: 4.5pt;
+    letter-spacing: 0pt;
     margin-left: 0;
   }
   .nav-container header .logo .logo-placeholder {
